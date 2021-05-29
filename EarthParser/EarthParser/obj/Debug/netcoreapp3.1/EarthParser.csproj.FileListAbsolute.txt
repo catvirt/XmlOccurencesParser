@@ -1,0 +1,13 @@
+C:\Users\AES\source\repos\EarthParser\EarthParser\bin\Debug\netcoreapp3.1\EarthParser.exe
+C:\Users\AES\source\repos\EarthParser\EarthParser\bin\Debug\netcoreapp3.1\EarthParser.deps.json
+C:\Users\AES\source\repos\EarthParser\EarthParser\bin\Debug\netcoreapp3.1\EarthParser.runtimeconfig.json
+C:\Users\AES\source\repos\EarthParser\EarthParser\bin\Debug\netcoreapp3.1\EarthParser.runtimeconfig.dev.json
+C:\Users\AES\source\repos\EarthParser\EarthParser\bin\Debug\netcoreapp3.1\EarthParser.dll
+C:\Users\AES\source\repos\EarthParser\EarthParser\bin\Debug\netcoreapp3.1\EarthParser.pdb
+C:\Users\AES\source\repos\EarthParser\EarthParser\obj\Debug\netcoreapp3.1\EarthParser.csprojAssemblyReference.cache
+C:\Users\AES\source\repos\EarthParser\EarthParser\obj\Debug\netcoreapp3.1\EarthParser.AssemblyInfoInputs.cache
+C:\Users\AES\source\repos\EarthParser\EarthParser\obj\Debug\netcoreapp3.1\EarthParser.AssemblyInfo.cs
+C:\Users\AES\source\repos\EarthParser\EarthParser\obj\Debug\netcoreapp3.1\EarthParser.csproj.CoreCompileInputs.cache
+C:\Users\AES\source\repos\EarthParser\EarthParser\obj\Debug\netcoreapp3.1\EarthParser.dll
+C:\Users\AES\source\repos\EarthParser\EarthParser\obj\Debug\netcoreapp3.1\EarthParser.pdb
+C:\Users\AES\source\repos\EarthParser\EarthParser\obj\Debug\netcoreapp3.1\EarthParser.genruntimeconfig.cache
