@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AES\\source\\repos\\EarthParser\\EarthParser\\EarthParser.csproj": {}
+    "C:\\Users\\trymz\\Documents\\GitHub\\XmlOccurencesParser\\EarthParser\\EarthParser\\EarthParser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AES\\source\\repos\\EarthParser\\EarthParser\\EarthParser.csproj": {
+    "C:\\Users\\trymz\\Documents\\GitHub\\XmlOccurencesParser\\EarthParser\\EarthParser\\EarthParser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AES\\source\\repos\\EarthParser\\EarthParser\\EarthParser.csproj",
+        "projectUniqueName": "C:\\Users\\trymz\\Documents\\GitHub\\XmlOccurencesParser\\EarthParser\\EarthParser\\EarthParser.csproj",
         "projectName": "EarthParser",
-        "projectPath": "C:\\Users\\AES\\source\\repos\\EarthParser\\EarthParser\\EarthParser.csproj",
-        "packagesPath": "C:\\Users\\AES\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AES\\source\\repos\\EarthParser\\EarthParser\\obj\\",
+        "projectPath": "C:\\Users\\trymz\\Documents\\GitHub\\XmlOccurencesParser\\EarthParser\\EarthParser\\EarthParser.csproj",
+        "packagesPath": "C:\\Users\\trymz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\trymz\\Documents\\GitHub\\XmlOccurencesParser\\EarthParser\\EarthParser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\AES\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\trymz\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
