@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\AES\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\AES\\.nuget\\packages"
+      "C:\\Users\\trymz\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\trymz\\.nuget\\packages"
     ]
   }
 }

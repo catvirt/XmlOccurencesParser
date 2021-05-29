@@ -11,3 +11,16 @@ C:\Users\AES\source\repos\EarthParser\EarthParser\obj\Debug\netcoreapp3.1\EarthP
 C:\Users\AES\source\repos\EarthParser\EarthParser\obj\Debug\netcoreapp3.1\EarthParser.dll
 C:\Users\AES\source\repos\EarthParser\EarthParser\obj\Debug\netcoreapp3.1\EarthParser.pdb
 C:\Users\AES\source\repos\EarthParser\EarthParser\obj\Debug\netcoreapp3.1\EarthParser.genruntimeconfig.cache
+C:\Users\trymz\Documents\GitHub\XmlOccurencesParser\EarthParser\EarthParser\bin\Debug\netcoreapp3.1\EarthParser.exe
+C:\Users\trymz\Documents\GitHub\XmlOccurencesParser\EarthParser\EarthParser\bin\Debug\netcoreapp3.1\EarthParser.deps.json
+C:\Users\trymz\Documents\GitHub\XmlOccurencesParser\EarthParser\EarthParser\bin\Debug\netcoreapp3.1\EarthParser.runtimeconfig.json
+C:\Users\trymz\Documents\GitHub\XmlOccurencesParser\EarthParser\EarthParser\bin\Debug\netcoreapp3.1\EarthParser.runtimeconfig.dev.json
+C:\Users\trymz\Documents\GitHub\XmlOccurencesParser\EarthParser\EarthParser\bin\Debug\netcoreapp3.1\EarthParser.dll
+C:\Users\trymz\Documents\GitHub\XmlOccurencesParser\EarthParser\EarthParser\bin\Debug\netcoreapp3.1\EarthParser.pdb
+C:\Users\trymz\Documents\GitHub\XmlOccurencesParser\EarthParser\EarthParser\obj\Debug\netcoreapp3.1\EarthParser.csprojAssemblyReference.cache
+C:\Users\trymz\Documents\GitHub\XmlOccurencesParser\EarthParser\EarthParser\obj\Debug\netcoreapp3.1\EarthParser.AssemblyInfoInputs.cache
+C:\Users\trymz\Documents\GitHub\XmlOccurencesParser\EarthParser\EarthParser\obj\Debug\netcoreapp3.1\EarthParser.AssemblyInfo.cs
+C:\Users\trymz\Documents\GitHub\XmlOccurencesParser\EarthParser\EarthParser\obj\Debug\netcoreapp3.1\EarthParser.csproj.CoreCompileInputs.cache
+C:\Users\trymz\Documents\GitHub\XmlOccurencesParser\EarthParser\EarthParser\obj\Debug\netcoreapp3.1\EarthParser.dll
+C:\Users\trymz\Documents\GitHub\XmlOccurencesParser\EarthParser\EarthParser\obj\Debug\netcoreapp3.1\EarthParser.pdb
+C:\Users\trymz\Documents\GitHub\XmlOccurencesParser\EarthParser\EarthParser\obj\Debug\netcoreapp3.1\EarthParser.genruntimeconfig.cache
