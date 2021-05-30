@@ -9,7 +9,7 @@ namespace EarthParser
     {
         private static void Main(string[] arguments)
         {
-            if (arguments.Length < 2 || arguments[0] == null && arguments[1] == null)
+            if (arguments.Length < 2 || arguments[0] == null || arguments[1] == null)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine(" > Invalid Arguments!");
