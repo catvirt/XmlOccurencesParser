@@ -6,7 +6,7 @@ using System.IO;
 
 namespace EarthParser
 {
-    class Program
+    internal static class Program
     {
         private static void Main(string[] arguments)
         {
@@ -20,13 +20,9 @@ namespace EarthParser
             if (arguments[0] != null && arguments[1] != null)
             {
                 var xml = XDocument.Load(arguments[0]);
-
                 XElement root = xml.Root;
-
                 XNamespace xname = root.GetDefaultNamespace();
-
                 IEnumerable<XElement> KeysEntry = from key in xml.Descendants(xname + arguments[1]) select key;
-
                 Console.ForegroundColor = ConsoleColor.Green;
                 foreach (var earthParse in KeysEntry)
                 {           
