@@ -10,13 +10,14 @@ namespace EarthParser
     {
         private static void Main(string[] arguments)
         {
-            if (arguments.Length == 0)
+            if (arguments.Length < 2)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine(" > Invalid Arguments!");
                 Console.ResetColor();
+                return;
             }
-            else if (arguments[0] != null && arguments[1] != null)
+            if (arguments[0] != null && arguments[1] != null)
             {
                 var xml = XDocument.Load(arguments[0]);
 
@@ -26,13 +27,13 @@ namespace EarthParser
 
                 IEnumerable<XElement> KeysEntry = from key in xml.Descendants(xname + arguments[1]) select key;
 
+                Console.ForegroundColor = ConsoleColor.Green;
                 foreach (var earthParse in KeysEntry)
-                {
-                    Console.ForegroundColor = ConsoleColor.Green;
+                {           
                     Console.WriteLine(earthParse.Value);
-                    File.AppendAllText("OccurencesFound.txt", earthParse.Value);
-                    Console.ResetColor();
+                    File.AppendAllText("FoundOccurrences.txt", $"{earthParse.Value}{Environment.NewLine}");           
                 }
+                Console.ResetColor();
             }          
         }
     }
